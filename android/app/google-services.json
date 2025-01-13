@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879806517854",
+    "project_id": "dahlilyflowpro-ce082",
+    "storage_bucket": "dahlilyflowpro-ce082.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879806517854:android:d55a7942bf1fd5c9e29acf",
+        "android_client_info": {
+          "package_name": "com.example.simsdahlily"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4_QbKKPaKqYnlviPi4jQAtr9TfT2cf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
