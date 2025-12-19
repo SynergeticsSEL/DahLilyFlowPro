@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Release v1.0.0 – Initial major release for DahLily FlowPro.
+Bug fix applied to improve system stability
